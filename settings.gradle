@@ -1,0 +1,3 @@
+rootProject.name = 'SweetHeartDaemon'
+enableFeaturePreview('IMPROVED_POM_SUPPORT')
+
