@@ -12,4 +12,4 @@ a sweet message to my girlfriend everyday :)
 
 ### Dependencies
 
-AWS Lambda, AWS SNS, what else?
+AWS Lambda, AWS SNS, AWS CloudWatch Event, what else?
